@@ -6,4 +6,5 @@ matplotlib
 seaborn
 plotly
 mlxtend
-statsmodels
+statsmodels==0.14.0
+scipy==1.10.1
